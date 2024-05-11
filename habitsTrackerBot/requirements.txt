@@ -1,0 +1,16 @@
+Django
+djangorestframework
+markdown
+django-filter
+Pillow
+numpy
+psycopg2-binary
+openai
+pyTelegramBotAPI
+gunicorn
+django-redis
+dj-database-url
+django-celery-beat
+implicit
+boto3
+django-storages
